@@ -7,6 +7,13 @@ description: >
 
 # Units and amounts (cast)
 
+## Safety
+Prefer read-only first; require user confirmation for any write.
+
+## Verify
+Re-check state after any write; confirm receipts when broadcasting.
+
+
 ## Goal
 Convert between human-readable amounts and on-chain raw units.
 
