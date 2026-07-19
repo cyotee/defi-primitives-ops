@@ -1,0 +1,23 @@
+{
+  "name": "defi-primitives",
+  "version": "0.1.0",
+  "description": "ERC20, WETH, approvals, and unit conversion cast runbooks for AI agents",
+  "author": {
+    "name": "cyotee"
+  },
+  "keywords": [
+    "erc20",
+    "weth",
+    "approvals",
+    "cast",
+    "agent"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "defi-primitives",
+    "shortDescription": "ERC20, WETH, approvals, and unit conversion cast runbooks for AI agents",
+    "longDescription": "ERC20, WETH, approvals, and unit conversion cast runbooks for AI agents",
+    "category": "Defi",
+    "developerName": "cyotee"
+  }
+}
